@@ -1,17 +1,4 @@
-body {
-  background-color: #e8f9fd;
-}
-
-hr {
-  border-style: none;
-  border-top-style: dotted;
-  height: 0;
-  width: 5%;
-  border-width: 5px;
-  border-color: grey;
-}
-
-h1 , h3 {
-    font-family: 'Comic Sans MS', 'Comic Sans', cursive;
-    color:#66BFBF;
+/* tag selectors */
+body{
+  background-color: blue;
 }
