@@ -1,7 +1,5 @@
 /* tag selectors */
-div{
-  background-color: #9ED2C6;
-}
+
 
 h1{
   margin-block-start: 0;
@@ -10,4 +8,26 @@ h1{
 
 body{
   margin:0;
+}
+
+/* class selectors */
+
+.top-container, .middle-container, .bottom-container{
+
+  height: 200px;
+  width: 200px;
+
+}
+
+.top-container{
+  background-color: #9ED2C6;
+}
+
+.middle-container{
+  background-color: blue;
+
+}
+
+.bottom-container{
+  background-color: red;
 }
