@@ -1,33 +1,58 @@
 /* tag selectors */
 
-
 h1{
-  margin-block-start: 0;
-  margin-block-end: 0;
+  display: inline-block;
+    margin-top: 110px;
 }
+
 
 body{
   margin:0;
+  text-align: center;
+
+  
 }
+
+
 
 /* class selectors */
 
- .middle-container, .bottom-container{
 
-  height: 200px;
-  width: 200px;
-
-}
 
 .top-container{
   background-color: #9ED2C6;
+  margin-top: 0;
+  width:100%;
+  height:800px;
+  /* text-align: center; */
+  
+  bottom:21px;
+  position: relative;
+  
 }
 
-.middle-container{
-  background-color: blue;
-
+.top-cloud{
+  position: absolute;
+  right:370px;
+  top:54px;
 }
 
-.bottom-container{
-  background-color: red;
+.bottom-cloud{
+  position: absolute;
+  /* right:200px; */
+  left: 413px;
+  top:246px;
 }
+
+.mountain{
+  position: absolute;
+  bottom:0px;
+  right:400px;
+  
+}
+
+
+
+
+
+
