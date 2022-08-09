@@ -12,7 +12,7 @@ body{
 
 /* class selectors */
 
-.top-container, .middle-container, .bottom-container{
+ .middle-container, .bottom-container{
 
   height: 200px;
   width: 200px;
