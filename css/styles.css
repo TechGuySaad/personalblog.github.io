@@ -41,7 +41,7 @@ h2,h3{
 }
 .description{
   position: absolute;
-  left: 36rem;
+  left: 33rem;
   z-index: +1;
   top: 15rem;
   font-size: 2.5rem;
@@ -64,7 +64,7 @@ h2,h3{
 .mountain{
   position: absolute;
   bottom: 0px;
-  right: 15rem;
+  right: 9rem;
   height: 32.73rem;
   
 }
