@@ -4,6 +4,7 @@ h1{
     display: inline-block;
     margin-top: 40px;
     font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
 }
 
 
@@ -38,6 +39,14 @@ h2,h3{
   position: relative;
   
 }
+.description{
+  position: absolute;
+  left: 36rem;
+  z-index: +1;
+  top: 15rem;
+  font-size: 2.5rem;
+}
+
 
 .top-cloud{
   position: absolute;
@@ -55,20 +64,14 @@ h2,h3{
 .mountain{
   position: absolute;
   bottom: 0px;
-  right: 279px;
-  height: 491px;
+  right: 15rem;
+  height: 32.73rem;
   
 }
 
-.middle-container{
- 
+.pro{
+  text-decoration: underline;
 }
-
-.bottom-container{
- 
-
-}
-
 
 
 
