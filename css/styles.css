@@ -16,6 +16,8 @@ h2{
 a{
   text-decoration: none;
   margin: 1rem 1rem;
+  color: #607EAA;
+  font-family: 'Mukta', sans-serif;
   
 }
 
@@ -34,13 +36,17 @@ h2,h3{
   font-family: 'Montserrat', sans-serif;
 }
 
-h1, h2 {
+h1{
+  color: #EAE3D2;
+}
+
+ h2 {
   color:  #1C3879;
 }
 
-a{
+/* a{
   color: #1C3879;
-}
+} */
 
 h3  {
   color: #1C3879;
@@ -62,11 +68,12 @@ hr{
 
 
 .top-container{
-  background-color: #607EAA;
+  background-color: #1C3879;
   margin-top: 0;
   padding-top: 100px;
   width:100%;
   height:32rem;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 10), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   
   
   bottom:21px;
@@ -75,9 +82,12 @@ hr{
 }
 .description{
   position: absolute;
-  left: 42%;
-  top: 15rem;
+  left: 27%;
+  top: 16rem;
   font-size: 2.2rem;
+  font-family: 'Sacramento', cursive;
+  color: #EAE3D2;
+  font-size: 3rem;
 }
 
 
@@ -139,11 +149,13 @@ hr{
   height: 13rem;
     width: 68rem;
     display: inline;
-    font-size: 13rem;
+    font-size: 9rem;
     position: absolute;
     right: 19rem;
     bottom: 30%;
     line-height: 1;
+    
+    
 }
 
 .title-img{
@@ -151,6 +163,8 @@ hr{
   position: absolute;
   right: 0;
   bottom: 0rem;
+  box-shadow: 12px 0 15px -4px rgb(0 0 0 / 80%), -10px 0 9px -10px rgb(0 0 0 / 80%);
+  opacity: 0.9;
 }
 
 .btn {
@@ -181,12 +195,13 @@ hr{
 }
 
 .bottom-container{
-  background-color: #607EAA;
+  background-color: #1C3879;
   color: #EAE3D2;
   text-decoration: none;
   margin:0;
   height: 5rem;
   padding-top: 4rem;
+  font-family: 'Mukta', sans-serif;
 }
 
 .footer-name{
