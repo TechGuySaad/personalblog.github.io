@@ -147,24 +147,35 @@ hr{
 
 .saad-intro{
   height: 13rem;
-    width: 68rem;
-    display: inline;
-    font-size: 9rem;
-    position: absolute;
-    right: 19rem;
-    bottom: 30%;
-    line-height: 1;
+  width: 68rem;
+  display: inline;
+  font-size: 9rem;
+  position: absolute;
+  right: 22rem;
+  bottom: 27%;
+  line-height: 1;
     
     
 }
 
 .title-img{
-  height: 51rem;
+  height: 54rem;
   position: absolute;
   right: 0;
   bottom: 0rem;
   box-shadow: 12px 0 15px -4px rgb(0 0 0 / 80%), -10px 0 9px -10px rgb(0 0 0 / 80%);
   opacity: 0.8;
+}
+
+.title-img3{
+  height: 51rem;
+  position: absolute;
+  right: 3rem;
+  bottom: 0rem;
+  box-shadow: 12px 0 15px -4px rgb(0 0 0 / 80%), -10px 0 9px -10px rgb(0 0 0 / 80%);
+  opacity: 0.8;
+
+
 }
 
 .btn {
