@@ -69,16 +69,19 @@ h3 , a {
 
 .bottom-cloud{
   position: absolute;
-  /* right:200px; */
-  left: 413px;
-  top:246px;
+  left: 372px;
+    top: 306px;
 }
 
 .mountain{
+  margin:0;
   position: absolute;
-  bottom: 0px;
-  right: 9rem;
-  height: 32.73rem;
+  
+
+ 
+  /* margin: 0 auto 0 auto; */
+  bottom:0;
+  right:27%;
   
 }
 
@@ -104,6 +107,9 @@ h3 , a {
   float:right;
   margin-left:30px;
 }
+
+
+
 
 /* .skill-text{
   margin-left: 30px;
