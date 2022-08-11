@@ -45,6 +45,7 @@ hr{
     border-width: 6px;
     border-bottom: none;
     border-color: #EAF6F6;
+    margin: 5rem auto;
 }
 
 
@@ -124,6 +125,7 @@ hr{
 .saad-img{
   height: 14rem;
   width: 14rem;
+  margin-top: 3rem;
 }
 
 .saad-intro{
